@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Currently working as an AI Prompting Engineer at Outlier<br><br>🤝 Open to collaborating on AI/ML and Data Science projects<br><br>🧠 Interested in LLMs, Prompt Engineering, and building intelligent systems<br><br>🌱 Currently exploring Machine Learning, Deep Learning, and Data Analytics<br><br>💬 Ask me about Python, Machine Learning, Data Analysis, and AI<br><br>⚡ Fun fact: I enjoy turning complex problems into practical, data-driven solutions.
 
 
